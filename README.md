@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kashbyte
+- 👋 Hi, I’m @Kalash
 - 👀 I’m interested in software designing.
 - 🌱 I’m currently learning Python, HTML and CSS
 
