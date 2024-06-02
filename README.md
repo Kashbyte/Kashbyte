@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kalash
 - 👀 I’m interested in software designing.
-- 🌱 I’m currently learning Python, HTML and CSS
+- 🌱 I’m currently learning Web Development.
 
 <!---
 Kashbyte/Kashbyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
